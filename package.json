@@ -2,10 +2,10 @@
   "name": "e-commerce",
   "version": "1.0.0",
   "description": "Practice",
-  "main": "./src/index.ts",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/index.ts"
+    "start": "node ./src/index.js"
   },
   "author": "Aliyos Himself",
   "license": "ISC",
@@ -15,7 +15,5 @@
     
   },
   "devDependencies": {
-    "@types/node": "^22.5.4",
-    "typescript": "^5.6.2"
   }
 }
